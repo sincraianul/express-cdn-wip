@@ -1,5 +1,5 @@
 {
-  "name": "express-cdn",
+  "name": "express-cdn-wip",
   "description": "Node.js module for delivering optimized, minified, mangled, gzipped, and CDN-hosted assets in Express using S3 and CloudFront.",
   "version": "0.2.6",
   "author": {
@@ -91,10 +91,10 @@
     "express",
     "uglify"
   ],
-  "homepage": "https://github.com/niftylettuce/express-cdn",
+  "homepage": "https://github.com/sincraianul/express-cdn-wip",
   "repository": {
     "type": "git",
-    "url": "https://github.com/niftylettuce/express-cdn.git"
+    "url": "https://github.com/sincraianul/express-cdn-wip.git"
   },
   "engines": {
     "node": ">= 0.6.0"
