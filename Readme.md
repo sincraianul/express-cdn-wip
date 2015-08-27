@@ -2,7 +2,6 @@
 
 A modified version of @niftylettuce's `express-cdn` package. It includes custom tags, and some minor changes.
 
-
 ## Index
 
 - [Features](#features)
